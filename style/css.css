@@ -179,7 +179,7 @@ padding-block: 18px;
 }
 
 .pic{
-   height: 122vh;
+   height: 102vh;
    
     position: relative;
     background-image: url(../img/HeroSection.png);
@@ -369,6 +369,9 @@ footer{
     html{
         font-size: 16px;
     }
+    .pic{
+        height: 106vh;
+    }     
     .swap-nav {
         display: flex;
         width: calc(63% - 95px);
